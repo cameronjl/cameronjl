@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cameronjl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning C#.
+- 💞️ My favorite hobby is competing in fighting games.
+- 📫 How to reach me cameronjl@etsu.edu
 
 <!---
 cameronjl/cameronjl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
